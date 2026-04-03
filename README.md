@@ -1,13 +1,12 @@
 # Uzaif Khan — Portfolio 
 
-## ⚡ Quick Start (bas yahi 3 commands!)
 
-```bash
+
 npm install
 npm run dev
-```
 
-Browser mein open hoga: http://localhost:5173
+
+Browser localhost address: http://localhost:5173
 
 ## 📦 Build for Production
 
