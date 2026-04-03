@@ -1,4 +1,4 @@
-# Uzaif Khan — Portfolio (React + Vite)
+# Uzaif Khan — Portfolio 
 
 ## ⚡ Quick Start (bas yahi 3 commands!)
 
@@ -16,7 +16,7 @@ npm run build
 npm run preview
 ```
 
-## 🗂️ Project Structure
+Project Structure
 
 ```
 uzaif-portfolio/
@@ -48,9 +48,11 @@ uzaif-portfolio/
         ├── Education.jsx       ← Education section
         └── Footer.jsx          ← Contact footer
 
-## 🛠️ Tech Stack
+@ Tech Stack
 - React 18
 - Vite 5
 - Swiper 11
 - Pure CSS (no Tailwind needed)
+
+@ hosting link : https://uzaif-portfolio.vercel.app/
 ```
